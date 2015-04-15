@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMAYD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tmayd">TMAYD</string>
+    <string name="main_text">Signup / Login to Parse</string>
+    <string name="TMAYD">TMAYD</string>
+    <string name="get_responses">See Responses</string>
+</resources>
