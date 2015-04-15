@@ -9,8 +9,8 @@ import com.parse.ParseACL;
  */
 public class ParseApplication extends Application{
 
-    private static final String APPLICATION_ID = "YFe5lad618iuOTGoZD04k9v92uy79wRMaHpCBG5q";
-    private static final String CLIENT_KEY = "BE6nUF1ZZBoofgGYBZTBTTwXyqk2SG88EEsQrYDZ";
+    private static final String APPLICATION_ID = "hkB2mB6VpDOhgLHsxN9ncC4IakLIjW79ocmrNI8T";
+    private static final String CLIENT_KEY = "yx00CC43B9q9GNkhwRQ7EG0tbkd8uXwhsBM4tp95";
 
     @Override
     public void onCreate() {
