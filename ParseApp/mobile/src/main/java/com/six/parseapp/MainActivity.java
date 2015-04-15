@@ -28,8 +28,8 @@ public class MainActivity extends Activity {
             @Override
             public void done(ParseException e) {
             if(e == null) {
-                ParseObject po = new ParseObject(""); /*TODO*/
-                po.put("", ParseUser.getCurrentUser()); /*TODO*/
+                ParseObject po = new ParseObject("TMAYD"); /*TODO*/
+                po.put("author", ParseUser.getCurrentUser()); /*TODO*/
                 po.put("description", ""); /*TODO*/
                 po.saveInBackground();
 
